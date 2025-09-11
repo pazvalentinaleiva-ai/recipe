@@ -9,6 +9,7 @@ This recipe guides you through the preparation of Chilean Empanadas de Pino, a s
 
 Author: Paz  
 
+![Empanadas](Imagen Empanadas.jpg)
 
 
 
